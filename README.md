@@ -1,4 +1,4 @@
-# Buddi Web
+# Buddiapp Landing Page
 Landing page for buddiapp.co
 Deployed via Vercel.
 
